@@ -1,0 +1,3 @@
+/Users/macbookpro/revisegetDistance/cmake-build-debug/CMakeFiles/revisegetDistance.dir
+/Users/macbookpro/revisegetDistance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbookpro/revisegetDistance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
